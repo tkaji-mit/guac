@@ -1,4 +1,4 @@
-# guac
+# Guacamole
 > My awesome guacamole recipe
 
 -------
